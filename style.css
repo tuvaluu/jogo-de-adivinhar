@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 400px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+.form input[type="number"] {
+    width: 200px;
+}
+
+.ultimoresultado {
+    color: white;
+    padding: 3px;
+}
+#caixa {
+    text-align: center;
+}
